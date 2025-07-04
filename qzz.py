@@ -16,8 +16,8 @@ from datetime import datetime
 logging.basicConfig(level=logging.INFO)
 
 # Bot configuration
-BOT_TOKEN = "8027052727:AAFkA5wAuli74H8Km2KLx_St_Ke77_jWS6s"  # Replace with your bot token
-OWNER_ID = 7377694590  # Replace with owner's Telegram ID
+BOT_TOKEN = "8067408775:AAH7dq5lq-tJbKq6ElQL9JI-RJ67_mbZENM"  # Replace with your bot token
+OWNER_ID = 5479445322  # Replace with owner's Telegram ID
 
 # Initialize bot and dispatcher
 bot = Bot(token=BOT_TOKEN)
